@@ -1,0 +1,120 @@
+		.h1{
+			color: white;
+		}
+		.container{
+			display: inline-flex;
+			flex-wrap: wrap;
+			width: Auto;
+			background-color: lightblue;
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+		.iQOO{
+			background-color: white;
+			margin: 80px;
+			padding: 30px;
+			float: left;
+			width: 200px;
+			border: 2px ridge lightgrey;
+		}
+		.Vivo{
+			background-color: white;
+			margin: 80px;
+			padding: 30px;
+			float: left;
+			width: 200px;
+			border: 2px ridge lightgrey;
+		}
+		.Oppo{
+			background-color: white;
+			padding: 30px;
+			margin: 80px;
+			float: left;
+			width: 200px;
+			border: 2px ridge lightgrey;
+		}
+		.Oneplus{
+			background-color: white;
+			padding: 30px;
+			margin: 80px;
+			float: left;
+			width: 200px;
+			border: 2px ridge lightgrey;
+		}
+		.OppoReno{
+			background-color: white;
+			padding: 30px;
+			margin: 80px;
+			float: left;
+			width: 200px;
+			border: 2px ridge lightgrey;
+		}
+		.iQOO7{
+			background-color: white;
+			padding: 30px;
+			margin: 80px;
+			float: left;
+			width: 200px;
+			border: 2px ridge lightgrey;
+		}
+		.OppoA1{
+			background-color: white;
+			padding: 30px;
+			margin: 80px;
+			float: left;
+			width: 200px;
+			border: 2px ridge lightgrey;
+		}
+		.Vivox90{
+			background-color: white;
+			padding: 30px;
+			margin: 80px;
+			float: left;
+			width: 200px;
+			border: 2px ridge lightgrey;
+		}
+		.Vivo16{
+			background-color: white;
+			padding: 30px;
+			margin: 80px;
+			float: left;
+			width: 200px;
+			border: 2px ridge lightgrey;
+		}
+		#l1{
+			display: none;
+		}
+		
+		#l2{
+			display: none;
+		}
+		
+		#l3{
+			display: none;
+		}
+		#l4{
+			display: none;
+		}
+		#l5{
+			display: none;
+		}
+		#l6{
+			display: none;
+		}
+		#l7{
+			display: none;
+		}
+		#l8{
+			display: none;
+		}
+		#l9{
+			display: none;
+		}
+
+		img{
+			width: 200px;
+		}
+
+		body{
+			background-color: darkblue;
+		}

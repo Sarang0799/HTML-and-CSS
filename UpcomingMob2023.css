@@ -1,0 +1,40 @@
+
+		img{
+			width: 50%;
+			height: 50%;
+			border-radius: 5%;
+			background-color: lightblue;
+		}
+		body{
+			background-color: darkblue;
+			color: lightblue;
+		}
+		#l1{
+			display: none;
+		}
+		
+		#l2{
+			display: none;
+		}
+		
+		#l3{
+			display: none;
+		}
+		#l4{
+			display: none;
+		}
+		#l5{
+			display: none;
+		}
+		#l6{
+			display: none;
+		}
+		#l7{
+			display: none;
+		}
+		#l8{
+			display: none;
+		}
+		#l9{
+			display: none;
+		}
